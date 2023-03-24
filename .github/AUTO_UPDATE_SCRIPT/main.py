@@ -12,15 +12,14 @@ continue_mark = '<!--cont.-->'
 def get_start_line(file):
     for index, per_line in enumerate(file):
         if get_short_url(per_line) != -1 and len(per_line) - len(per_line.replace(continue_mark, '')) != 0:
-            i = index
             f.seek(0)
-            return i
+            return index
     return 0
 
 # 调整太平洋时间
 def change_time(raw_time):
     raw_time = str(raw_time).replace('Z', '')
-    txtfmt = raw_time[:10]+ " " + raw_time[11:19]
+    txtfmt = f"{raw_time[:10]} {raw_time[11:19]}"
     dt = datetime.strptime(txtfmt,"%Y-%m-%d %H:%M:%S")
     cur_time = dt + timedelta(hours=8)
     return str(cur_time)
@@ -28,7 +27,7 @@ def change_time(raw_time):
 def get_update_time(short_urls):
     global max_count
     max_count -= 1
-    request_url = 'https://api.github.com/repos/' + short_urls
+    request_url = f'https://api.github.com/repos/{short_urls}'
     response = requests.get(request_url)
     if response.status_code == 404:
         return -1
@@ -45,7 +44,7 @@ def get_update_time(short_urls):
 def get_api_limit():
     request_url = 'https://api.github.com/rate_limit'
     response = requests.get(request_url)
-    print('响应状态' + str(response.status_code))
+    print(f'响应状态{str(response.status_code)}')
     return json.loads(response.text).get('resources')['core']['remaining']
 
 
@@ -66,10 +65,9 @@ def get_format_message(basic_message, short_url):
         message = change_time(update_time)
     if sign_mount < 5:
         return basic_message + str(message) + '|'
-    else:
-        lines = basic_message.split('|')
-        lines[4] = str(message)
-        return '|'.join(lines)
+    lines = basic_message.split('|')
+    lines[4] = str(message)
+    return '|'.join(lines)
 
 
 def add_line(index, per_line):
@@ -85,7 +83,7 @@ def get_short_url(per_line):
     urls = re.findall('https?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*(),]|%[0-9a-fA-F][0-9a-fA-F])+', per_line)
     if len(urls) != 0 and sign_mount != 0:
         urls = urls[0].replace(')', '').split('/')
-        return urls[3] + '/' + urls[4]
+        return f'{urls[3]}/{urls[4]}'
     return -1
 
 
@@ -101,11 +99,10 @@ def read_file(file, start_line):
             add_line(index, per_line)
             continue
         clean_url = get_short_url(per_line)
-        if clean_url != -1:
-            if api_status:
-                message = get_format_message(per_line, clean_url)
-                add_line(index, message)
-                continue
+        if clean_url != -1 and api_status:
+            message = get_format_message(per_line, clean_url)
+            add_line(index, message)
+            continue
         add_line(index, per_line)
 
 
