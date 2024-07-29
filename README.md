@@ -12,8 +12,8 @@
 | [今日老婆2](https://github.com/Rinco304/hoshino-daliywife2) | [@Rinco304](https://github.com/Rinco304) | 一个适用于HoshinoBot的可以换老婆的随机抽取群友作为老婆插件 |2024-06-26 12:58:54|
 | [抽老婆数据记录版](https://github.com/Rlezzo/AnimeWife/tree/AnimeWifeDB) | [@Rlezzo](https://github.com/Rlezzo) | [抽动漫老婆](https://github.com/Rinco304/AnimeWife)原插件用json记录抽老婆数据，此版本改用数据库并记录所有历史数据 |2024-06-06 14:27:06|
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator/tree/master)原插件api已无法使用，适配了最新的api |2024-05-24 13:30:04|
-| [aichat的DeepSeek适配版](https://github.com/Rlezzo/aichat-DeepSeek) | [@Rlezzo](https://github.com/Rlezzo) | [aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT)适配了一下deepseek和openai1.30 |2024-05-16 20:07:05|
-| [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-07-19 00:03:55|
+| [aichat的DeepSeek适配版](https://github.com/Rlezzo/aichat-DeepSeek) | [@Rlezzo](https://github.com/Rlezzo) | [aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT)适配了一下deepseek和openai1.30 |2024-07-21 20:07:56|
+| [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-07-22 23:28:42|
 | [帝国时代4战绩通报插件](https://github.com/joeyHXD/aoe4_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 从aoe4world爬取最新战绩 |2024-03-11 23:00:33|
 | [幻兽帕鲁插件](https://github.com/azmiao/PalWorldPlugin) | [@azmiao](https://github.com/azmiao)<br>[@SlightDust](https://github.com/SlightDust)<br>[@Lancercmd](https://github.com/Lancercmd) | 一个帕鲁的QQ机器人插件 |2024-07-02 16:47:13|
 | [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 |2024-05-23 17:13:46|
@@ -39,7 +39,7 @@
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2024-06-26 12:47:27|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2024-07-18 16:06:39|
+| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2024-07-20 10:30:38|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
@@ -52,7 +52,7 @@
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
 | [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
 | [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-02-12 08:06:58|
-| [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2024-03-05 10:07:31|
+| [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2024-07-20 15:17:26|
 | [运势n合一](https://github.com/SonderXiaoming/huannai_plugin_fortune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 超多主题，每群都可以独立设置 |2023-12-20 10:01:03|
 | [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2023-01-26 05:28:47|
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
@@ -295,7 +295,7 @@
 | [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
-| [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) <!--cont.-->| [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
+| [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
 | [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
 | [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) | |2022-08-11 11:50:58|
