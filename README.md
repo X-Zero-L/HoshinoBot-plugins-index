@@ -286,7 +286,7 @@
 | [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06 22:03:52|
 | [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
 | [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
-| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) <!--cont.-->| [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
+| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 |2023-07-25 16:38:20|
 | [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) | |2021-02-24 23:51:49|
