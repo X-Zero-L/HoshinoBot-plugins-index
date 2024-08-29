@@ -204,7 +204,7 @@
 | [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2024-08-06 11:12:09|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2024-08-09 12:01:12|
-| [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
+| [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
 | [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
@@ -264,7 +264,7 @@
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
-| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
+| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) <!--cont.-->| [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
