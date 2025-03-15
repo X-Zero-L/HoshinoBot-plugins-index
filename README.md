@@ -234,7 +234,7 @@
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2023-02-01 09:16:45|
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修 改的碧蓝档案blue archive插件 |2021-08-15 18:25:47|
 | [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |2021-03-09 21:52:41|
-| [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) <!--cont.-->| [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 |2021-01-30 04:49:45|
+| [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) | [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 |2021-01-30 04:49:45|
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 |2021-02-09 18:25:31|
 | [PCR贵族决斗（带下注）](https://github.com/Rs794613/PcrDuel) | [@Rs794613](https://github.com/Rs794613) | 创建贵族进行俄罗斯轮盘决斗，提升爵位，抢夺公主。 |2022-06-14 17:22:04|
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
@@ -276,7 +276,7 @@
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2024-03-24 04:01:17|
