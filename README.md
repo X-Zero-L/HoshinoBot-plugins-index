@@ -291,7 +291,7 @@
 | [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 |2023-07-25 16:38:20|
 | [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) | |2021-02-24 23:51:49|
 | [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 |2020-11-11 15:12:44|
-| [生日](https://github.com/pcrbot/birthday) <!--cont.-->| [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06 14:01:59|
+| [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06 14:01:59|
 | [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
