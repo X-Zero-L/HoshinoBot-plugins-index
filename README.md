@@ -209,7 +209,7 @@
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
 | [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
 | [P站搜索](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new) | [@scofieldle](https://github.com/scofieldle) | 使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画 |2022-06-21 09:49:47|
-| [崩3日历](https://github.com/NepPure/bh3_calendar) <!--cont.-->| [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
+| [崩3日历](https://github.com/NepPure/bh3_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
 | [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2024-07-13 09:49:19|
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-09-15 15:51:55|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2024-07-06 13:53:56|
@@ -263,7 +263,7 @@
 | [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
-| [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
+| [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) <!--cont.-->| [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
